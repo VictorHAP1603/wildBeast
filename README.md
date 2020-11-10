@@ -1,4 +1,4 @@
-Projeto Feito com o curso de CSS Grida - Origamid
+Projeto Feito com o curso de CSS Grid - Origamid
 
 link:
 
